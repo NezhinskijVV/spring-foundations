@@ -1,2 +1,4 @@
 # Project exclude paths
 /core/target/
+/.idea/
+spring-foundations.iml
