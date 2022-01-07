@@ -12,6 +12,7 @@
         <module>core</module>
         <module>programmer-app-xml-config</module>
         <module>core-java-based</module>
+        <module>programmer-app-java-based-config</module>
     </modules>
 
     <properties>
